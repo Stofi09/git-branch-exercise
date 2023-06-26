@@ -6,12 +6,13 @@ public class Main {
         System.out.println("Greetings");
     }
 
-    public void count(Integer i) {
-        i = 25;
-        System.out.println(i);
-    }
+    public void count() {
+        System.out.println("9");
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7b001155b3d4558d96b4b661998a90fb5ff47f79
     public void cheer() {
         System.out.println("JAVA");
     }
