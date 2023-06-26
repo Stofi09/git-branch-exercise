@@ -13,6 +13,7 @@ public class Main {
 
     public void cheer(String cheer) {
         System.out.println("Cheer for the" + cheer);
+        System.out.println("Cheer for the" + cheer);
     }
 
 }
