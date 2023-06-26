@@ -10,7 +10,7 @@ public class Main {
         System.out.println("25");
     }
 
-    public void Cheer() {
+    public void cheer() {
         System.out.println("Member C");
     }
 }
