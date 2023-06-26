@@ -2,8 +2,8 @@ public class Main {
     public static void main(String[] args) {
         greet("name");
     }
-    public static void greet(String name){
-        System.out.println("Hello" + name);
+    public static void greet(){
+        System.out.println("Greetings");
     }
 
     public void count(Integer i) {
