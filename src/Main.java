@@ -7,7 +7,6 @@ public class Main {
         System.out.println("Greetings age " + age + "smth else");
     }
     public void count(String param1, String param2) {
-        System.out.println(param1);
         System.out.println("Counting the countless "+ param2);
     }
 
