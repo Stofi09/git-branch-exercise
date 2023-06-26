@@ -2,8 +2,9 @@ public class Main {
     public static void main(String[] args) {
         greet();
     }
-    public static void greet(String name){
-        System.out.println("Greetings for the " + name);
+
+    public static void greet(String name, int age){
+        System.out.println("Greetings" + name +" age: "+ age);
     }
 
     public void count() {
