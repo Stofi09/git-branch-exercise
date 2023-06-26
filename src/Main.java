@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        greet("name");
+        greet();
     }
     public static void greet(String name){
         System.out.println("Greetings" + name);
@@ -8,7 +8,7 @@ public class Main {
 
     public void count() {
         System.out.println("9");
-
+    }
 
     public void cheer() {
         System.out.println("JAVA");
