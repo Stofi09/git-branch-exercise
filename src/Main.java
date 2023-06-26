@@ -7,7 +7,7 @@ public class Main {
   
     public void count(String param1, String param2) {
         System.out.println(param1);
-        System.out.println(param2);
+        System.out.println("Counting the countless "+ param2);
     }
 
     public void cheer(String name, int number) {
