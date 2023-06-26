@@ -4,7 +4,7 @@ public class Main {
 
     public static void greet(String name, String age){
 
-        System.out.println("Greetings " + name + "age " + age + "smth else");
+        System.out.println("Greetings age " + age + "smth else");
     }
     public void count(String param1, String param2) {
         System.out.println(param1);
