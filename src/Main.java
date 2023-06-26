@@ -6,8 +6,9 @@ public class Main {
         System.out.println("Hello Kristof");
     }
 
-    public void count() {
-        System.out.println("25");
+    public void count(Integer i) {
+        i = 25;
+        System.out.println(i);
     }
 
     public void Cheer() {
