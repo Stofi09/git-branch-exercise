@@ -12,7 +12,7 @@ public class Main {
     }
 
     public void cheer() {
-        System.out.println("Member C");
+        System.out.println("JAVA");
     }
 }
 
