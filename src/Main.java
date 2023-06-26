@@ -21,8 +21,8 @@ public class Main {
 >>>>>>> c8f49184df71227d992d8952edf584d71bb907f9
     }
 
-    public void cheer(String cheer) {
-        System.out.println("Cheer for the" + cheer);
+    public void cheer(String cheer, int age) {
+        System.out.println("Cheer for the" + cheedasdasdr);
     }
 
 }
