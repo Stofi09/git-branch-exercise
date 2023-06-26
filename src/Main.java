@@ -11,8 +11,13 @@ public class Main {
         System.out.println(i);
     }
 
+<<<<<<< HEAD
     public void cheer(String name) {
         System.out.println(name);
+=======
+    public void cheer() {
+        System.out.println("JAVA");
+>>>>>>> 6cf37f02ace79dfe86b7a8407c229b2894cfb5e4
     }
 }
 
