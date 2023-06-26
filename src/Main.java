@@ -1,9 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        greet();
+        greet("name");
     }
-    public static void greet(){
-        System.out.println("Hello Kristof");
+    public static void greet(String name){
+        System.out.println("Hello" + name);
     }
 
     public void count(Integer i) {
