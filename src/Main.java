@@ -11,8 +11,8 @@ public class Main {
         System.out.println(i);
     }
 
-    public void cheer() {
-        System.out.println("Member C");
+    public void cheer(String name) {
+        System.out.println(name);
     }
 }
 
