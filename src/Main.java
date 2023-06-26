@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        greet();
+        greet("nam2",3);
     }
     public static void greet(String name, int age){
         System.out.println("Greetings" + name +" age: "+ age);
