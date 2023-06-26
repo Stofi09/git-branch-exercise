@@ -11,7 +11,7 @@ public class Main {
         System.out.println("Counting the countless "+ param2);
     }
 
-    public void cheer(String cheer) {
+    public void cheer(String cheer, int age) {
         System.out.println("Cheer for the" + cheedasdasdr);
     }
 }
