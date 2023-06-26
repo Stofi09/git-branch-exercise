@@ -13,10 +13,7 @@ public class Main {
 
     public void cheer(String cheer) {
         System.out.println("Cheer for the" + cheer);
-
-    public void cheer(String name, int number){
-            System.out.println(name + number + "this");
-        }
+    }
 
 }
 
