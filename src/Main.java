@@ -1,8 +1,7 @@
 public class Main {
     public static void main(String[] args) {
     }
-
-    public static void greet(String name, int age){
+        public static void greet(String name, int age){
         System.out.println("Greetings" + name +" age: "+ age);
     }
 
@@ -11,8 +10,8 @@ public class Main {
         System.out.println(param2);
     }
 
-    public void cheer() {
-        System.out.println("JAVA");
+    public void cheer(String name, int number) {
+        System.out.println(name+number);
     }
 }
 
