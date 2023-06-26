@@ -3,8 +3,7 @@ public class Main {
         System.out.println("Hello world!");
     }
 
-    public void count(){
+    public void count() {
         System.out.println("25");
     }
 }
-
