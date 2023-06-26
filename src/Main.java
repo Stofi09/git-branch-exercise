@@ -10,8 +10,8 @@ public class Main {
         System.out.println("9");
     }
 
-    public void cheer() {
-        System.out.println("JAVA");
+    public void cheer(String cheer) {
+        System.out.println("Cheer for the" + cheer);
     }
 }
 
