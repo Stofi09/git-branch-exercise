@@ -10,9 +10,6 @@ public class Main {
     public void count() {
         System.out.println("9");
 
-    public void count() {
-        System.out.println(9);
-    }
 
 <<<<<<< HEAD
     public void cheer(String name) {
